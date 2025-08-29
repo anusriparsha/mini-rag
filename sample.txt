@@ -1,0 +1,2 @@
+Artificial Intelligence (AI) is the simulation of human intelligence in machines.
+Generative AI refers to AI systems capable of generating new content like text, images, or music.

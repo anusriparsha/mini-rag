@@ -40,3 +40,7 @@ It loads a text file, splits it into chunks, embeds the chunks, stores them in F
 Make sure you have Python 3.9+ and a virtual environment. Then install:
 
 2.pip install langchain langchain-community langchain-ollama faiss-cpu
+
+Time spent : 2-4 hours as requested.
+
+VEDIO LINK : https://1drv.ms/v/c/2347956e4f99a8a5/EfoPCiUOkP5EqsQ4XGAB_wIBq5XXofJkHiJDhM9896qR9A?e=Ggfevi
